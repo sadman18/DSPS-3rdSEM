@@ -12,6 +12,7 @@ namespace largest
             int num2 = Convert.ToInt32(Console.ReadLine());    
             int num3 = Convert.ToInt32(Console.ReadLine());
 
+            //maximum
             int max = num1;
             if (num2>max)
             {
@@ -22,6 +23,7 @@ namespace largest
                 max = num3;
             }
 
+            // minimum 
 
             int min = num3;
             if (num2<min)
@@ -35,6 +37,7 @@ namespace largest
 
             Console.WriteLine("\n"+ max);
             Console.WriteLine("\n"+ min);
+            
 
 
         }
