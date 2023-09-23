@@ -1,0 +1,13 @@
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Sum\bin\Debug\netcoreapp3.1\Sum.exe
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Sum\bin\Debug\netcoreapp3.1\Sum.deps.json
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Sum\bin\Debug\netcoreapp3.1\Sum.runtimeconfig.json
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Sum\bin\Debug\netcoreapp3.1\Sum.runtimeconfig.dev.json
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Sum\bin\Debug\netcoreapp3.1\Sum.dll
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Sum\bin\Debug\netcoreapp3.1\Sum.pdb
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Sum\obj\Debug\netcoreapp3.1\Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Sum\obj\Debug\netcoreapp3.1\Sum.AssemblyInfoInputs.cache
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Sum\obj\Debug\netcoreapp3.1\Sum.AssemblyInfo.cs
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Sum\obj\Debug\netcoreapp3.1\Sum.csproj.CoreCompileInputs.cache
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Sum\obj\Debug\netcoreapp3.1\Sum.dll
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Sum\obj\Debug\netcoreapp3.1\Sum.pdb
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Sum\obj\Debug\netcoreapp3.1\Sum.genruntimeconfig.cache

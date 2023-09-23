@@ -1,0 +1,14 @@
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Hello Name\bin\Debug\netcoreapp3.1\Hello Name.exe
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Hello Name\bin\Debug\netcoreapp3.1\Hello Name.deps.json
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Hello Name\bin\Debug\netcoreapp3.1\Hello Name.runtimeconfig.json
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Hello Name\bin\Debug\netcoreapp3.1\Hello Name.runtimeconfig.dev.json
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Hello Name\bin\Debug\netcoreapp3.1\Hello Name.dll
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Hello Name\bin\Debug\netcoreapp3.1\Hello Name.pdb
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Hello Name\obj\Debug\netcoreapp3.1\Hello Name.csproj.AssemblyReference.cache
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Hello Name\obj\Debug\netcoreapp3.1\Hello Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Hello Name\obj\Debug\netcoreapp3.1\Hello Name.AssemblyInfoInputs.cache
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Hello Name\obj\Debug\netcoreapp3.1\Hello Name.AssemblyInfo.cs
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Hello Name\obj\Debug\netcoreapp3.1\Hello Name.csproj.CoreCompileInputs.cache
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Hello Name\obj\Debug\netcoreapp3.1\Hello Name.dll
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Hello Name\obj\Debug\netcoreapp3.1\Hello Name.pdb
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Hello Name\obj\Debug\netcoreapp3.1\Hello Name.genruntimeconfig.cache

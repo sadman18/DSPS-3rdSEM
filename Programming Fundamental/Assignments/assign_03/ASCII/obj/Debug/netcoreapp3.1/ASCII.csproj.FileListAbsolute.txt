@@ -1,0 +1,13 @@
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_03\ASCII\bin\Debug\netcoreapp3.1\ASCII.exe
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_03\ASCII\bin\Debug\netcoreapp3.1\ASCII.deps.json
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_03\ASCII\bin\Debug\netcoreapp3.1\ASCII.runtimeconfig.json
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_03\ASCII\bin\Debug\netcoreapp3.1\ASCII.runtimeconfig.dev.json
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_03\ASCII\bin\Debug\netcoreapp3.1\ASCII.dll
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_03\ASCII\bin\Debug\netcoreapp3.1\ASCII.pdb
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_03\ASCII\obj\Debug\netcoreapp3.1\ASCII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_03\ASCII\obj\Debug\netcoreapp3.1\ASCII.AssemblyInfoInputs.cache
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_03\ASCII\obj\Debug\netcoreapp3.1\ASCII.AssemblyInfo.cs
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_03\ASCII\obj\Debug\netcoreapp3.1\ASCII.csproj.CoreCompileInputs.cache
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_03\ASCII\obj\Debug\netcoreapp3.1\ASCII.dll
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_03\ASCII\obj\Debug\netcoreapp3.1\ASCII.pdb
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_03\ASCII\obj\Debug\netcoreapp3.1\ASCII.genruntimeconfig.cache

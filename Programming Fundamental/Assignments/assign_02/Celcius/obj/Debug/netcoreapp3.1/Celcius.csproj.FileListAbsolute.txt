@@ -1,0 +1,14 @@
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Celcius\bin\Debug\netcoreapp3.1\Celcius.exe
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Celcius\bin\Debug\netcoreapp3.1\Celcius.deps.json
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Celcius\bin\Debug\netcoreapp3.1\Celcius.runtimeconfig.json
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Celcius\bin\Debug\netcoreapp3.1\Celcius.runtimeconfig.dev.json
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Celcius\bin\Debug\netcoreapp3.1\Celcius.dll
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Celcius\bin\Debug\netcoreapp3.1\Celcius.pdb
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Celcius\obj\Debug\netcoreapp3.1\Celcius.csproj.AssemblyReference.cache
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Celcius\obj\Debug\netcoreapp3.1\Celcius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Celcius\obj\Debug\netcoreapp3.1\Celcius.AssemblyInfoInputs.cache
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Celcius\obj\Debug\netcoreapp3.1\Celcius.AssemblyInfo.cs
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Celcius\obj\Debug\netcoreapp3.1\Celcius.csproj.CoreCompileInputs.cache
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Celcius\obj\Debug\netcoreapp3.1\Celcius.dll
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Celcius\obj\Debug\netcoreapp3.1\Celcius.pdb
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Celcius\obj\Debug\netcoreapp3.1\Celcius.genruntimeconfig.cache

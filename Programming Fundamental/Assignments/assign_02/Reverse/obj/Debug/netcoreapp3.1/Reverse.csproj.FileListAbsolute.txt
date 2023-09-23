@@ -1,0 +1,13 @@
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Reverse\bin\Debug\netcoreapp3.1\Reverse.exe
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Reverse\bin\Debug\netcoreapp3.1\Reverse.deps.json
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Reverse\bin\Debug\netcoreapp3.1\Reverse.runtimeconfig.json
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Reverse\bin\Debug\netcoreapp3.1\Reverse.runtimeconfig.dev.json
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Reverse\bin\Debug\netcoreapp3.1\Reverse.dll
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Reverse\bin\Debug\netcoreapp3.1\Reverse.pdb
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Reverse\obj\Debug\netcoreapp3.1\Reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Reverse\obj\Debug\netcoreapp3.1\Reverse.AssemblyInfoInputs.cache
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Reverse\obj\Debug\netcoreapp3.1\Reverse.AssemblyInfo.cs
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Reverse\obj\Debug\netcoreapp3.1\Reverse.csproj.CoreCompileInputs.cache
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Reverse\obj\Debug\netcoreapp3.1\Reverse.dll
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Reverse\obj\Debug\netcoreapp3.1\Reverse.pdb
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Reverse\obj\Debug\netcoreapp3.1\Reverse.genruntimeconfig.cache

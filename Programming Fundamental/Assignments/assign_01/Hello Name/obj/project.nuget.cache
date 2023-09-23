@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HZfukLwz5xzeafv3xO2Duy/Cl+JUkLTiJyWimZLwnZ8Uyr4sUxet9txLLWwPJKQCkRrhBVB0layCxjbQ41FIGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sadma\\Desktop\\Study\\3rd Semester\\Programming Fundamental\\Assignments\\assign_01\\Hello Name\\Hello Name.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sadma\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

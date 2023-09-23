@@ -1,0 +1,14 @@
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Nice to meet you\bin\Debug\netcoreapp3.1\Nice to meet you.exe
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Nice to meet you\bin\Debug\netcoreapp3.1\Nice to meet you.deps.json
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Nice to meet you\bin\Debug\netcoreapp3.1\Nice to meet you.runtimeconfig.json
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Nice to meet you\bin\Debug\netcoreapp3.1\Nice to meet you.runtimeconfig.dev.json
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Nice to meet you\bin\Debug\netcoreapp3.1\Nice to meet you.dll
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Nice to meet you\bin\Debug\netcoreapp3.1\Nice to meet you.pdb
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Nice to meet you\obj\Debug\netcoreapp3.1\Nice to meet you.csproj.AssemblyReference.cache
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Nice to meet you\obj\Debug\netcoreapp3.1\Nice to meet you.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Nice to meet you\obj\Debug\netcoreapp3.1\Nice to meet you.AssemblyInfoInputs.cache
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Nice to meet you\obj\Debug\netcoreapp3.1\Nice to meet you.AssemblyInfo.cs
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Nice to meet you\obj\Debug\netcoreapp3.1\Nice to meet you.csproj.CoreCompileInputs.cache
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Nice to meet you\obj\Debug\netcoreapp3.1\Nice to meet you.dll
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Nice to meet you\obj\Debug\netcoreapp3.1\Nice to meet you.pdb
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Nice to meet you\obj\Debug\netcoreapp3.1\Nice to meet you.genruntimeconfig.cache

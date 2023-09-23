@@ -1,0 +1,14 @@
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\odd\bin\Debug\netcoreapp3.1\odd.exe
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\odd\bin\Debug\netcoreapp3.1\odd.deps.json
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\odd\bin\Debug\netcoreapp3.1\odd.runtimeconfig.json
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\odd\bin\Debug\netcoreapp3.1\odd.runtimeconfig.dev.json
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\odd\bin\Debug\netcoreapp3.1\odd.dll
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\odd\bin\Debug\netcoreapp3.1\odd.pdb
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\odd\obj\Debug\netcoreapp3.1\odd.csproj.AssemblyReference.cache
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\odd\obj\Debug\netcoreapp3.1\odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\odd\obj\Debug\netcoreapp3.1\odd.AssemblyInfoInputs.cache
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\odd\obj\Debug\netcoreapp3.1\odd.AssemblyInfo.cs
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\odd\obj\Debug\netcoreapp3.1\odd.csproj.CoreCompileInputs.cache
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\odd\obj\Debug\netcoreapp3.1\odd.dll
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\odd\obj\Debug\netcoreapp3.1\odd.pdb
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\odd\obj\Debug\netcoreapp3.1\odd.genruntimeconfig.cache

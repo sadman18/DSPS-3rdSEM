@@ -1,0 +1,14 @@
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\LowerCase\bin\Debug\netcoreapp3.1\LowerCase.exe
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\LowerCase\bin\Debug\netcoreapp3.1\LowerCase.deps.json
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\LowerCase\bin\Debug\netcoreapp3.1\LowerCase.runtimeconfig.json
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\LowerCase\bin\Debug\netcoreapp3.1\LowerCase.runtimeconfig.dev.json
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\LowerCase\bin\Debug\netcoreapp3.1\LowerCase.dll
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\LowerCase\bin\Debug\netcoreapp3.1\LowerCase.pdb
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\LowerCase\obj\Debug\netcoreapp3.1\LowerCase.csproj.AssemblyReference.cache
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\LowerCase\obj\Debug\netcoreapp3.1\LowerCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\LowerCase\obj\Debug\netcoreapp3.1\LowerCase.AssemblyInfoInputs.cache
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\LowerCase\obj\Debug\netcoreapp3.1\LowerCase.AssemblyInfo.cs
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\LowerCase\obj\Debug\netcoreapp3.1\LowerCase.csproj.CoreCompileInputs.cache
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\LowerCase\obj\Debug\netcoreapp3.1\LowerCase.dll
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\LowerCase\obj\Debug\netcoreapp3.1\LowerCase.pdb
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\LowerCase\obj\Debug\netcoreapp3.1\LowerCase.genruntimeconfig.cache

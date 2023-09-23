@@ -1,0 +1,14 @@
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Circumference\bin\Debug\netcoreapp3.1\Circumference.exe
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Circumference\bin\Debug\netcoreapp3.1\Circumference.deps.json
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Circumference\bin\Debug\netcoreapp3.1\Circumference.runtimeconfig.json
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Circumference\bin\Debug\netcoreapp3.1\Circumference.runtimeconfig.dev.json
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Circumference\bin\Debug\netcoreapp3.1\Circumference.dll
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Circumference\bin\Debug\netcoreapp3.1\Circumference.pdb
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Circumference\obj\Debug\netcoreapp3.1\Circumference.csproj.AssemblyReference.cache
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Circumference\obj\Debug\netcoreapp3.1\Circumference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Circumference\obj\Debug\netcoreapp3.1\Circumference.AssemblyInfoInputs.cache
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Circumference\obj\Debug\netcoreapp3.1\Circumference.AssemblyInfo.cs
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Circumference\obj\Debug\netcoreapp3.1\Circumference.csproj.CoreCompileInputs.cache
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Circumference\obj\Debug\netcoreapp3.1\Circumference.dll
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Circumference\obj\Debug\netcoreapp3.1\Circumference.pdb
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_02\Circumference\obj\Debug\netcoreapp3.1\Circumference.genruntimeconfig.cache

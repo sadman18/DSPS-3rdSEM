@@ -1,0 +1,13 @@
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\UpperCase\bin\Debug\netcoreapp3.1\UpperCase.exe
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\UpperCase\bin\Debug\netcoreapp3.1\UpperCase.deps.json
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\UpperCase\bin\Debug\netcoreapp3.1\UpperCase.runtimeconfig.json
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\UpperCase\bin\Debug\netcoreapp3.1\UpperCase.runtimeconfig.dev.json
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\UpperCase\bin\Debug\netcoreapp3.1\UpperCase.dll
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\UpperCase\bin\Debug\netcoreapp3.1\UpperCase.pdb
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\UpperCase\obj\Debug\netcoreapp3.1\UpperCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\UpperCase\obj\Debug\netcoreapp3.1\UpperCase.AssemblyInfoInputs.cache
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\UpperCase\obj\Debug\netcoreapp3.1\UpperCase.AssemblyInfo.cs
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\UpperCase\obj\Debug\netcoreapp3.1\UpperCase.csproj.CoreCompileInputs.cache
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\UpperCase\obj\Debug\netcoreapp3.1\UpperCase.dll
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\UpperCase\obj\Debug\netcoreapp3.1\UpperCase.pdb
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\UpperCase\obj\Debug\netcoreapp3.1\UpperCase.genruntimeconfig.cache

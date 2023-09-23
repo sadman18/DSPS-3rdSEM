@@ -1,0 +1,14 @@
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Characters in name\bin\Debug\netcoreapp3.1\Characters in name.exe
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Characters in name\bin\Debug\netcoreapp3.1\Characters in name.deps.json
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Characters in name\bin\Debug\netcoreapp3.1\Characters in name.runtimeconfig.json
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Characters in name\bin\Debug\netcoreapp3.1\Characters in name.runtimeconfig.dev.json
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Characters in name\bin\Debug\netcoreapp3.1\Characters in name.dll
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Characters in name\bin\Debug\netcoreapp3.1\Characters in name.pdb
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Characters in name\obj\Debug\netcoreapp3.1\Characters in name.csproj.AssemblyReference.cache
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Characters in name\obj\Debug\netcoreapp3.1\Characters in name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Characters in name\obj\Debug\netcoreapp3.1\Characters in name.AssemblyInfoInputs.cache
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Characters in name\obj\Debug\netcoreapp3.1\Characters in name.AssemblyInfo.cs
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Characters in name\obj\Debug\netcoreapp3.1\Characters in name.csproj.CoreCompileInputs.cache
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Characters in name\obj\Debug\netcoreapp3.1\Characters in name.dll
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Characters in name\obj\Debug\netcoreapp3.1\Characters in name.pdb
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Fundamental\Assignments\assign_01\Characters in name\obj\Debug\netcoreapp3.1\Characters in name.genruntimeconfig.cache
